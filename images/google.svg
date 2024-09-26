@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="222" height="67" viewBox="0 0 222 67">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e61484"/>
+      <stop offset="1" stop-color="#ed54a5"/>
+    </linearGradient>
+  </defs>
+  <g id="google" transform="translate(-0.151)">
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="222" height="67" rx="6" transform="translate(0.151)" fill="url(#linear-gradient)"/>
+    <text id="Get_it_on_Google_Play" data-name="Get it on
+Google Play" transform="translate(77.151 28)" fill="#e0e0e0" font-size="14" font-family="HelveticaNeue, Helvetica Neue" letter-spacing="0.05em"><tspan x="0" y="0">GET IT ON</tspan><tspan fill="#fff" font-size="16" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="22">GOOGLE PLAY</tspan></tspan></text>
+    <path id="Icon_awesome-google-play" data-name="Icon awesome-google-play" d="M22.873,16.474,7.355.914,27.1,12.248l-4.226,4.226ZM3.3,0A2.733,2.733,0,0,0,1.779,2.482V33.511A2.733,2.733,0,0,0,3.3,35.993l18.042-18ZM33.2,15.863l-4.141-2.4L24.441,18l4.62,4.535,4.226-2.4a2.821,2.821,0,0,0-.084-4.275ZM7.355,35.086,27.1,23.752l-4.226-4.226Z" transform="translate(22.616 16)" fill="#fff"/>
+  </g>
+</svg>

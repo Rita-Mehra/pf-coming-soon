@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="222" height="67" viewBox="0 0 222 67">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e61484"/>
+      <stop offset="1" stop-color="#ed54a5"/>
+    </linearGradient>
+  </defs>
+  <g id="Apple" transform="translate(-0.151)">
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="222" height="67" rx="6" transform="translate(0.151)" fill="url(#linear-gradient)"/>
+    <text id="Get_it_on_Apple_Store" data-name="Get it on
+Apple Store" transform="translate(77.151 28)" fill="#e0e0e0" font-size="14" font-family="HelveticaNeue, Helvetica Neue" letter-spacing="0.05em"><tspan x="0" y="0">GET IT ON</tspan><tspan fill="#fff" font-size="16" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="22">APPLE STORE</tspan></tspan></text>
+    <path id="Icon_awesome-apple" data-name="Icon awesome-apple" d="M27.682,22.859a8.128,8.128,0,0,1,4.353-7.383,9.355,9.355,0,0,0-7.375-3.883c-3.091-.244-6.469,1.8-7.706,1.8-1.306,0-4.3-1.715-6.652-1.715C5.444,11.758.281,15.554.281,23.277a21.7,21.7,0,0,0,1.254,7.07c1.114,3.2,5.137,11.032,9.334,10.9,2.194-.052,3.744-1.559,6.6-1.559,2.769,0,4.205,1.559,6.652,1.559,4.232-.061,7.871-7.183,8.933-10.387a8.631,8.631,0,0,1-5.372-8Zm-4.928-14.3a8.2,8.2,0,0,0,2.09-6.313,9.232,9.232,0,0,0-5.912,3.039,8.329,8.329,0,0,0-2.229,6.26c2.273.174,4.345-.993,6.051-2.986Z" transform="translate(19.563 11.75)" fill="#fff"/>
+  </g>
+</svg>
